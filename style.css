@@ -85,7 +85,7 @@ body {
   align-items: center;
   background: linear-gradient(135deg, #223, #334);
   /* border: 2px solid #446; */
-  border-radius: 16px;
+  border-radius: 20px;
   padding: 20px;
   color: #fff;
   box-shadow: 0 0 20px rgba(0,0,0,0.5);
@@ -111,7 +111,7 @@ body {
 }
 .slider {
   position: relative;
-  width: 80%;
+  width: 900px;
   max-width: 900px;
   overflow: hidden;
   min-height: 250px; /* чтобы карточка и таблица не дергали слайдер */
