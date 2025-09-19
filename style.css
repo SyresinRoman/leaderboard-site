@@ -22,6 +22,7 @@ body {
   max-width: 900px;
   overflow: hidden;
   border-radius: 20px;
+  height: 100%;
 }
 
 .slider table {
