@@ -14,7 +14,6 @@ body {
   background:no-repeat  url(https://tse4.mm.bing.net/th/id/OIP.MJUDnTcV9lpQ6jpLQa3yRAHaE7?r=0&rs=1&pid=ImgDetMain&o=7&rm=3);
   background-size: 100%;
   padding-top: 10%;
-  border-radius: 20px;
 }
 
 .slider {
@@ -22,6 +21,7 @@ body {
   width: 80%;
   max-width: 900px;
   overflow: hidden;
+  border-radius: 20px;
 }
 
 .slider table {
