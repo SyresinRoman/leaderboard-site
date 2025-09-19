@@ -12,7 +12,7 @@ body {
   justify-content: space-around;
   align-items: center;
   background:no-repeat  url(https://tse4.mm.bing.net/th/id/OIP.MJUDnTcV9lpQ6jpLQa3yRAHaE7?r=0&rs=1&pid=ImgDetMain&o=7&rm=3);
-  background-size: 100%;
+  background-size: 500%;
   padding-top: 10%;
 }
 
@@ -22,7 +22,7 @@ body {
   max-width: 900px;
   overflow: hidden;
   border-radius: 20px;
-  height: 100%;
+  height: 2000px;
 }
 
 .slider table {
@@ -63,7 +63,7 @@ body {
 /* Кнопки навигации */
 .nav {
   position: absolute;
-  top: 50%;
+  top: 5%;
   transform: translateY(-50%);
   background: rgba(0,0,0,0.5);
   border-radius: 20px;
